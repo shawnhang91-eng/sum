@@ -1,0 +1,6 @@
+{
+  "name": "BlokSum",
+  "description": "A high-stakes math puzzle game. Select numbers to reach the target sum and prevent the blocks from touching the top.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
